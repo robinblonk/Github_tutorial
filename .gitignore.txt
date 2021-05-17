@@ -1,0 +1,3 @@
+# ignore netCDF files
+
+dunnetaarte.txt
