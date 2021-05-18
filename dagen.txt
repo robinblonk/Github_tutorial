@@ -5,5 +5,3 @@ dinsdag
 woensdag
 donderdag
 vrijdag
-
-weekend is altijd vrij
